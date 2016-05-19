@@ -1,5 +1,5 @@
 drop database if exists mvc1;
-create datavase mvc1;
+create database mvc1;
 use mvc1;
 create table emp
 (
